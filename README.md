@@ -23,7 +23,7 @@ A simple console-based Restaurant Billing System developed in C++ to practice pr
 
 - Loops (do-while)
 - Conditional Statements (if-else)
-- switch-case
+- Switch-case
 - Variables and calculations
 - Output formatting
 
