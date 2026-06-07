@@ -27,6 +27,16 @@ A simple console-based Restaurant Billing System developed in C++ to practice pr
 - Variables and calculations
 - Output formatting
 
+## 📸 Project Screenshots
+
+### Ordering Process
+
+![Ordering Process](images/order-process.png)
+
+### Final Bill
+
+![Final Bill](images/final-bill.png)
+
 ## 👨‍💻 Author
 
 Fakheem Ibrahim
